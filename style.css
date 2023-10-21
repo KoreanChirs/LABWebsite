@@ -1,0 +1,137 @@
+/* button start*/
+
+.choose_section{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.hass_button{
+    width: 180px;
+    height: 50px;
+    background-color: white;
+    background-image: url("hass_picture.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    border: none;
+    margin-right: auto;
+}
+.project{
+    display: flex;
+    gap : 10px;
+}
+#project{
+    border: none;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+#project:hover{
+    border-bottom: 4px solid cornflowerblue;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+#second_title{
+    border-bottom: 2px lightgray solid;
+    padding-bottom: 30px;
+}
+
+/* button complete*/
+
+/* image start */
+.member_img{
+    max-width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hass_member{
+    border: black solid;
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.sk{
+    border: black solid;
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+/* image done */
+
+/* overview start */
+
+#ov{
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+#overview{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 14px;
+    text-indent: 5px;
+    line-height: 1.5;
+}
+
+.overview{
+    border-bottom: 2px lightgray solid;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+/* overview done */
+
+.descript{
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    border-bottom: 2px lightgray solid;
+    padding-bottom: 30px;
+}
+
+.study_topics{
+    max-width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.tdimage{
+    text-align: center;
+    margin: 0 auto;
+}
+
+#tankgame{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    border: black solid;
+}
+
+#shooter{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    border: black solid;
+}
+
+.threeD{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 14px;
+    text-indent: 5px;
+    line-height: 1.5;
+}
